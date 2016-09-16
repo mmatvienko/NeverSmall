@@ -1,0 +1,174 @@
+#left{
+	overflow: hidden;
+}
+h2{
+	font-family: verdana;
+}
+#fixed{
+	table-layout: fixed;
+}
+#maint{
+margin-left: -8px;
+
+}
+#drop_choice{
+	text-align: right;
+}
+#centertxt{
+	text-align: center;
+	color:#ff9933;
+	font-family: verdana, ariel;
+	font-size: 36px;
+	font-weight: bold;
+}
+label{
+	color:#ff9933;
+	font-family: verdana, ariel;
+	font-size: 12px;	
+}
+#middle{
+	
+}
+#button, #button1, #button2{
+	background:#ae161a;
+	color:#ff9933;
+	border:1px #801014 solid;
+	height: 25px;
+	font-weight: bold;
+	margin: 5px;
+}
+ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+#titlesearch{
+	color:#971317;
+	font-family: verdana, ariel;
+	font-size: 16px;
+}
+#subtitlesearch{
+	color: grey;
+	font-family: verdana, ariel;
+	font-size: 14px;
+}
+#subsearch{
+	color:#971317;
+	font-family: verdana, ariel;
+	font-size: 12px;
+}
+#errmsg{
+	text-align: center;
+	color:red;
+	font-family: verdana, ariel;
+	font-size: 10px;
+	font-weight: normal;
+}
+#sccmsg{
+	text-align: center;
+	color:green;
+	font-family: verdana, ariel;
+	font-size: 10px;
+	font-weight: normal;
+}
+#italics{
+	font-style: : italic;
+}
+#stopflow{
+	position: relative;
+	margin-left: -9px;
+}
+#buttons_right{
+	text-align: right;
+}
+#centr{
+	text-align: center;
+	color:#ff9933;
+	font-family: verdana, ariel;
+}
+#label{
+color:#971317;
+font-family: verdana, ariel;
+
+}
+#lefttitle{
+font-size: 24px;
+color:#ae161a;
+font-family: verdana, ariel;
+}
+#leftlabel{
+	color:#ff9933;
+	font-family: verdana, ariel;
+	font-size: 14px;
+}
+#leftdate{
+	color:#ae161a;
+	font-family: verdana, ariel;
+	font-size: 14px;
+}
+#stats{
+	margin: 0 auto;
+}
+#stattd{
+	border: 1px solid #ae161a;
+	border-radius: 5px;
+	color: #ff9933;
+	font-family: verdana, ariel;
+	font-size: 16px;
+}
+#centrstat{
+	text-align: center;
+	color:#ae161a;
+	font-family: verdana, ariel;
+
+}
+#disabled{
+	color:grey;
+	font-size: 14px;
+	font-family: verdana, ariel; 
+}
+#settingstable{
+	text-align: right;
+}
+#settingstitle{
+	color:#ae161a;
+	font-family: verdana, ariel; 
+	font-size: 16px;
+}
+#label1{
+	color: #ff9933;
+	font-family: verdana, ariel;
+	font-size: 16px;
+}
+#titlez{
+	color: #ae161a;
+	font-family: verdana, ariel;
+	font-size: 22px;
+	text-align: center;
+	font-weight: bold;
+}
+#subtitlez{
+	color: #ff9933;
+	font-family: verdana, ariel;
+	font-size: 18px;
+	text-align: center;
+}
+
+body
+{
+    width:  90%;
+    height: 90%;
+	overflow-y: hidden;  
+  	overflow-x: hidden; 
+}
+#pagetitle{
+	text-align: center;
+	color:grey;
+	font-family: verdana, ariel;
+	font-size: 36px;
+}
+#centertable{
+	text-align: center;
+	margin: 0 auto;
+}

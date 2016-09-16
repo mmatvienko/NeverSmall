@@ -1,0 +1,127 @@
+#greattd{
+	margin: auto;
+}
+#errmsg{
+	text-align: center;
+	color:red;
+	font-family: verdana, ariel;
+	font-size: 10px;
+	font-weight: normal
+}
+#sccmsg{
+	text-align: center;
+	color:green;
+	font-family: verdana, ariel;
+	font-size: 10px;
+	font-weight: normal;
+}
+#darktitle{
+	color:#ae161a;
+}
+label{
+	color:#ff9933;
+	font-family: verdana, ariel;
+	font-size: 16px;	
+}
+.table{
+   text-align: center;
+}
+#header{
+	color:#ff9933;
+}
+.ui-page .ui-header {
+    background: #ae161a;
+}
+#message li{
+	color:#ff9933;
+	font-family: verdana;
+	font-size: 14px;
+	text-indent: 20px;
+}
+ol, #message{
+	list-style: none;
+}
+#nvtitle{
+	text-align: left;
+	color:#ae161a;
+	font-family:verdana, ariel;
+	font-size: 16px;
+	font-weight: bold;
+}
+h1{
+	color:#ff9933;
+}
+#label{
+	font-family: verdana;
+	color:#ae161a;
+	font-weight: normal;
+}
+#lefttitle{
+font-size: 24px;
+color:#ae161a;
+font-family: verdana, ariel;
+}
+#leftlabel{
+	color:#ff9933;
+	font-family: verdana, ariel;
+	font-size: 14px;
+}
+#leftdate{
+	color:#ae161a;
+	font-family: verdana, ariel;
+	font-size: 14px;
+}
+#titlesearch{
+	color:#971317;
+	font-family: verdana, ariel;
+	font-size: 16px;
+}
+#subtitlesearch{
+	color: grey;
+	font-family: verdana, ariel;
+	font-weight: normal;
+	font-size: 14px;
+}
+#subsearch{
+	color:#971317;
+	font-family: verdana, ariel;
+	font-weight: normal;
+	font-size: 12px;
+}
+a{
+	text-decoration: none;
+}
+#stattd{
+	color: #ff9933;
+	font-family: verdana, ariel;
+	font-size: 16px;
+}
+#centeralign{
+	text-align:center;
+}
+#settingstitle{
+	color:#ae161a;
+	font-family: verdana, ariel; 
+	font-size: 16px;
+	font-weight: bold;
+}
+#exist{
+	text-align: center;
+}
+#stopflow{
+	position: relative;
+	margin-left: -9px;
+}
+#titlez{
+	color: #ae161a;
+	font-family: verdana, ariel;
+	font-size: 22px;
+	text-align: center;
+	font-weight: bold;
+}
+#subtitlez{
+	color: #ff9933;
+	font-family: verdana, ariel;
+	font-size: 18px;
+	text-align: center;
+}

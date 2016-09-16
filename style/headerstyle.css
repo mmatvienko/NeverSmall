@@ -1,0 +1,59 @@
+.table{
+   text-align: center;
+
+
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ul li {
+    display: block;   
+    position: relative;
+    float: left;
+
+}
+li ul {
+    display: none;
+}
+ul li a {
+    display: block;
+    text-decoration: none;
+    border-top: 1px solid #ffffff;
+    padding: 5px 0 ;
+    margin-left: 1px;
+    white-space: nowrap;
+    font-size: 20px;
+    color:#ff9933;
+    font-family: verdana, ariel;
+    background: #ae161a;
+  
+
+}
+/*hover over the first thing*/
+ul li a:hover {
+background: #971317;
+
+}
+/*makes everything appear when hovered over*/
+li:hover ul {
+    display: block;
+    
+    position: absolute;
+
+}
+/*makes boxes all the right size*/
+li:hover li {
+    float: none;
+    font-size: 18px;
+}
+/*color of collumn excpect for the hovered over element*/
+li:hover a { 
+	background: #ae161a; 
+}
+/*whats being hovered over in the list*/
+li:hover li a:hover {
+    background: #971317;
+}
+

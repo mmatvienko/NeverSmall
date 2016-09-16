@@ -1,0 +1,14 @@
+ErrorDocument 404 /notfound.php
+<IfModule mod_suphp.c>
+
+	suPHP_ConfigPath /home1/marchome/php.ini
+
+	<Files php.ini>
+
+		order allow,deny
+
+		deny from all
+
+	</Files>
+
+</IfModule>

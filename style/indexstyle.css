@@ -1,0 +1,80 @@
+#greattd{
+	border-radius: 5px;
+	/*background: #971317;*/
+	padding: 5px 10px 5px 10px;
+}
+.center{
+	position: absolute;
+}
+#centertxt{
+	text-align: center;
+	color:#ae161a;
+	font-family:verdana, ariel;
+	font-size: 36px;
+	font-weight: bold;
+}
+label{
+	color:#ff9933;
+	font-family: verdana, ariel;
+	font-size: 12px;	
+}
+.tablecenter{
+	align: center;
+}
+#button{
+	background:#ae161a;
+	color:#ff9933;
+	border:1px #801014 solid;
+	width: 60px;
+	height: 25px;
+	font-weight: bold;
+	margin: 5px;
+	text-align: center;
+}
+#button:hover{
+	cursor: hand;
+}
+body{
+	background: #f0f0f0;
+	background: url("../hmpg.png");
+	background-repeat:no-repeat; 
+	background-position: center top;
+}
+#errmsg{
+	text-align: center;
+	color:red;
+	font-family: verdana, ariel;
+	font-size: 10px;
+	font-weight: normal;
+}
+#sccmsg{
+	text-align: center;
+	color:green;
+	font-family: verdana, ariel;
+	font-size: 10px;
+	font-weight: normal;
+}
+#message{
+	list-style: none;
+}
+#nvtitle{
+	text-align: left;
+	color:#ae161a;
+	font-family:verdana, ariel;
+	font-size: 24px;
+	font-weight: bold;
+}
+#message li{
+	color:#ff9933;
+	font-family: verdana;
+	font-size: 18px;
+	text-indent: 20px;
+}
+#darktitle{
+	color:#ae161a;
+}
+#footer{
+	font-family: verdana;
+	font-size: 12px;
+	text-indent: 20px;
+}
